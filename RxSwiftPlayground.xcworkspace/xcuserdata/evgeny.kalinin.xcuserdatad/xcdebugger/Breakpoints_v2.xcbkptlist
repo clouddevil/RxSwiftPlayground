@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9C957D19-981E-4C1E-8CBA-2ABFAA758E2C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CEF5A636-7C28-4940-B065-3CC54BC81886"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxSwiftPlaygroundTests/DeinitTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "testExampleOk()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CEF5A636-7C28-4940-B065-3CC54BC81886 - 3f8c43f5e599a792"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxSwiftPlaygroundTests.DeinitTest.testExampleOk() throws -&gt; ()"
+                  moduleName = "RxSwiftPlaygroundTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgeny.kalinin/dev/samples/RxSwiftPlayground/RxSwiftPlaygroundTests/DeinitTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "143">
+               </Location>
+               <Location
+                  uuid = "CEF5A636-7C28-4940-B065-3CC54BC81886 - 4411ad403b19469e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in RxSwiftPlaygroundTests.DeinitTest.testExampleOk() throws -&gt; ()"
+                  moduleName = "RxSwiftPlaygroundTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgeny.kalinin/dev/samples/RxSwiftPlayground/RxSwiftPlaygroundTests/DeinitTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "888076C8-2B21-4FFA-83F0-4CDA2A1B6D81"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxSwiftPlaygroundTests/DeinitTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "testExampleOk()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

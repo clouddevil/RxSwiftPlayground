@@ -7,7 +7,25 @@
 		<key>RxSwiftPlayground.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>96826EF62498DBB100F3DAAC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>96826F112498DBB500F3DAAC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>96826F1C2498DBB500F3DAAC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
